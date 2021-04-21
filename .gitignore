@@ -1,0 +1,6 @@
+# Intellij
+*.iml
+.idea/*
+!.idea/codeStyles/
+!.idea/icon.png
+!.idea/icon_dark.png
